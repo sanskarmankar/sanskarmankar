@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanskar Mankar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data scientist from India</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskarmankar)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **deep learning**
 
